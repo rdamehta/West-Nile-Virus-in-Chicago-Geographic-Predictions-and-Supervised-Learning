@@ -1,3 +1,4 @@
+## West Nile Virus in Chicago, Geographic Predictions, and Supervised Learning
 With a background in public health and medicine this project was particularly fascinating to me. Having actually suffered and recovered from malaria, I was interested in how mosquito vectors could spread other diseases, and how west nile got all the way over to Chicago
 
 For the data we decided to attempt to predict West Nile Spread in Chicago based from Kaggle's West Nile competition (linked below). 
