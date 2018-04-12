@@ -11,7 +11,7 @@ What was particularly interesting, and something of note, was how imbalanced the
 
 This repository was forked from the Kaggle West Nile Virus competition [Kaggle West Nile (https://www.kaggle.com/c/predict-west-nile-virus/) 
 
-[This file](https://www.kaggle.com/c/predict-west-nile-virus/download/west_nile.zip) sets up the directory structure (including all of the competition data):
+[This file](https://www.kaggle.com/c/predict-west-nile-virus/download/west_nile.zip) sets up the directory structure:
 
 - `input`: this contains all of the data files for the competition
 - `working`: on Kaggle, scripts run with this as the working directory. We recommend you do the same thing locally to avoid mixing output files with source files.
