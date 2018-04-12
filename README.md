@@ -15,5 +15,5 @@ This repository was forked from the Kaggle West Nile Virus competition [Kaggle W
 
 - `input`: this contains all of the data files for the competition
 - `working`: on Kaggle, scripts run with this as the working directory. We recommend you do the same thing locally to avoid mixing output files with source files.
-- `src`: Source scripts. We've provided some examples to get you started.
+- `src`: Source scripts.
 
