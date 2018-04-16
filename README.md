@@ -2,10 +2,10 @@
 
 
 ## Table of Contents
-- Introduction
-- Exploratory Data Analysis
-- Heatmaps
-- Model Results
+- [Introduction](https://github.com/rdamehta/west-nile-project_ravi/blob/master/README.md#introduction)
+- [Exploratory Data Analysis](https://github.com/rdamehta/west-nile-project_ravi/blob/master/README.md#eda)
+- [Heatmaps](https://github.com/rdamehta/west-nile-project_ravi/blob/master/README.md#heatmaps)
+- [Model Results](https://github.com/rdamehta/west-nile-project_ravi/blob/master/README.md#modeling-&-results)
 ### Introduction
 This project was particularly fascinating to me for a multitude of reasons. 
  
